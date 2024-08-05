@@ -1,0 +1,1 @@
+This is my first progress in the odin project
